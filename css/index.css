@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #222831;
+}
+.card
+{
+    background-color: #393E46;
+}
+.card-header
+{
+    background-color: #00ADB5;
+}
+.card-title,h1,h5,h4,p{
+    color: #EEEEEE;
+}
+
+.box{
+    box-shadow: 10px 10px 5px #161616;
+}
